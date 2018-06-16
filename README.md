@@ -3,15 +3,15 @@
 
 - Neste repositório usei os seguintes modulos:
 
--express;
+- express;
 
--nodemon;
+- nodemon;
 
--ejs;
+- ejs;
 
--consign;
+- consign;
 
--mysql.
+- mysql.
 
 
 express: me auxiliou a controlar as rotas com mais facilidade.
