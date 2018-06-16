@@ -4,10 +4,15 @@
 - Neste repositório usei os seguintes modulos:
 
 express;
+
 nodemon;
+
 ejs;
+
 consign;
+
 mysql.
+
 
 express: me auxiliou a controlar as rotas com mais facilidade.
 nodemon: reexecuta o projeto cada ves que eu salvo uma alteração no mesmo.
