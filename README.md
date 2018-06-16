@@ -3,22 +3,27 @@
 
 - Neste repositório usei os seguintes modulos:
 
-express;
+-express;
 
-nodemon;
+-nodemon;
 
-ejs;
+-ejs;
 
-consign;
+-consign;
 
-mysql.
+-mysql.
 
 
 express: me auxiliou a controlar as rotas com mais facilidade.
+
 nodemon: reexecuta o projeto cada ves que eu salvo uma alteração no mesmo.
+
 ejs: me auxilia com as views.
+
 consign: mapeia as dependencias que eu preciso.
+
 mysql: meu drive de conexão com o banco.
+
 
 ### este é um projeto bem simples, mais é uma boa maneira de entender inicialmente como funcionam as coisas no node e também dá uma ideia das possibilidades que o mesmo oferece.
 
